@@ -1,0 +1,14 @@
+importFrom("stats", "runif")
+importFrom("grDevices", "dev.new")
+importFrom("grDevices", "dev.off")
+importFrom("grDevices", "dev.size", "windows","x11", "getGraphicsEvent")
+
+importFrom("graphics", "grconvertY", "legend")
+importFrom("graphics", "axis", "layout", "par", "plot", "points", "polygon", "rect", "title","text","lines","grconvertX")
+
+importFrom("ggplot2", "ggplot", "geom_point","aes_string")
+
+export(mygame)
+export(myplot)
+ 
+ 
