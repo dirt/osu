@@ -5,7 +5,7 @@
   Give me an awsome description, please..
   }
 \usage{
-    max(x )
+    mymax(x )
 }
 \arguments{
   \item{x}{a numeric vector}    
@@ -18,7 +18,7 @@
 \examples{
 
 library(osu)
-max( 1:10)
+mymax( 1:10)
 
 }
 

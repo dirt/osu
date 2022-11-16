@@ -1,6 +1,6 @@
 # Coded by Rebecca Ralston (ralston.119)
 
-max = function(x) {
+mymax = function(x) {
   maxValueSoFar = x[1]
   for (value in x) {
     if (value > maxValueSoFar) {

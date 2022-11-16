@@ -6,7 +6,7 @@ Authors@R: c( person(given = "John", family = "White", role = c("aut", "cre"), e
              person(given = "Mike", family = "Zhao", role = "aut", email = "mzhao@buckeyemail.osu.edu"))
 Author: John White[aut, cre], Mike Zhao [aut]
 Maintainer: John White <jwhite@gmail.com>
-Depends: R (>= 2.10.0),graphics, utils,ggplot2
+Depends: R (>= 2.10.0),graphics, utils,curl
 Description: This package provides a number of functions to process xxx. One function is to run a Minesweeper game; another functin is to plot a vector of number.
 License: GPL (>= 2)
 NeedsCompilation: no

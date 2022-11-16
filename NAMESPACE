@@ -9,7 +9,7 @@ importFrom("graphics", "axis", "layout", "par", "plot", "points", "polygon", "re
 importFrom("curl", "curl_fetch_memory" )
 
 export(add3)
-export(lorenz,mygame,"+",max,getquote)
+export(lorenz,mygame,"+",mymax,getquote)
 export(quad) 
  
  
